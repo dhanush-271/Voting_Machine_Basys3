@@ -2,10 +2,6 @@
 title: VOTING MACHINE ON BASYS3
 ---
 
-> Github: <https://github.com/dhanush-271/Voting_Machine_Basys3>
->
-> KOTHAPALLI DHANUSH
-
 # INTRODUCTION
 
 This Verilog module simulates a voting machine, managing vote counting
